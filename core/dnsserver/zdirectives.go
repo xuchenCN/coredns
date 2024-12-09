@@ -28,6 +28,7 @@ var Directives = []string{
 	"prometheus",
 	"errors",
 	"log",
+	"blacklist",
 	"dnstap",
 	"local",
 	"dns64",
